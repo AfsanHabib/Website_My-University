@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+.container-fluid{
+    background: green;
+}
+.header{
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.nav-item a{
+    color: black;
+    font-weight: bold;
+}
+
+.dropdown-menu{
+    background: rgb(87, 158, 87);
+}
+.navbar{
+    background: white;
+}
+.navbar-toggler{
+    background: blanchedalmond;
+}
+
+.extradiv{
+    margin-top: 10px;
+    background: white;
+    border: medium none;
+    padding: 30px !important;
+    border-radius: 2px;
+    transition: 0.3s;
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+}
+.extradiv:hover{
+    box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.3) ;
+    transform: translateY(-30px);
+    color: rgb(255, 0, 13);
+}
+
+
+.photodiv{
+    background: black;
+    text-align: center;
+    padding-top: 80px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.photodiv h1{
+    color: white;
+    
+    font-weight: bold;
+}
+.photodiv h3{
+    color: green;
+    font-weight: bold;
+}
+.photodiv p{
+    color: white;
+}
+
+.photodiv .btn{
+    margin: 4px;
+    margin-top: 40px;
+}
+.photosection{
+ background: black;
+ margin-top: 10px;
+}
+
+.fotter{
+    background: black;
+    color: white;
+    margin-top: 5px;
+    padding-top: 15px;
+}
+.fotter .one{
+    text-align: center;
+}
+.one p{
+    padding-top: 15px;
+    padding-bottom: 5px;
+}
+
+.two li{
+    padding-top: 5px;
+    list-style: none;
+}
+.two h1{
+    padding-top: 15px;
+    text-align: center;
+}
+.two ul{
+    padding-top: 20px;
+    padding-left: 15px;
+}
+
+
+
+
+.three li{
+    padding-top: 5px;
+    list-style: none;
+}
+.three h1{
+    padding-top: 15px;
+    text-align: center;
+}
+.three ul{
+    padding-top: 20px;
+    padding-left: 15px;
+}
+
+
+.four li{
+    padding-top: 5px;
+    list-style: none;
+}
+.four h1{
+    padding-top: 15px;
+    text-align: center;
+}
+.four ul{
+    padding-top: 20px;
+    padding-left: 15px;
+}
+.four span{
+    color: yellow;
+    font-weight: bold;
+}
+
+.fot{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
